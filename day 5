@@ -1,0 +1,12 @@
+# my own code: practicing
+print("hi nehayesh")
+print("sorry my name is not nehayesh")
+print("sorry for bothring you, i was looking for your sister tamkin")
+print("my stupid sister, oh she is not in her class right now")
+print("Why?")
+print("beacuse she is stupif yk")
+#now we will go to input section 
+input("hi what's your name?: ")
+input("sorry can you tell me your name again?: ")
+myName = input("what's your name again?: ")
+
